@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**Perry2004/Perry2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+🌄Dear developers, I am Perry. <br>
+I'm a high school student studying in China. <br>
+My repositories include some small designs and practices of mine. <br>
+I've taken AP Computer Science A, AP Computer Science Principle courses and got 4. <br>
 - 🔭 I’m currently studying in Chinese high school, Harbin No.3 High School International Department. 
-- :star2 I'm currently applying US universities. 
+- :star2: I'm currently applying US universities. 
 - 🌱 I’m currently learning Java, Python, Machine Learning, and Data Visualization. 
 - 👯 I’m looking to collaborate on simple projects using Java.  
 - 🤔 I’m looking for help with Mathematics support. 
 - 📫 How to reach me: email me at perryzhu2004@outlook.com
-- ⚡ Fun fact: ...
-
--->
+- 🕸️ My personal website is at <a href: xxx> here </a>
