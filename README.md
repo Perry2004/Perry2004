@@ -8,4 +8,4 @@ I've taken AP Computer Science A, AP Computer Science Principle courses and got 
 - 👯 I’m looking to collaborate on simple projects using Java.  
 - 🤔 I’m looking for help with Mathematics support. 
 - 📫 How to reach me: email me at perryzhu2004@outlook.com
-- 🕸️ My personal website is at <a href="https://perry2004.github.io/Perry2004/">here</a> .
+- 🕸️ My personal website is at <a href="perry2004.github.io">here</a> .
