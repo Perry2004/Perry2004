@@ -10,4 +10,4 @@ As a beginner on coding, my interst is pretty broad, and I'm learning a lot of t
 - 🌱 I’m currently learning Java, Python, Web Design, Machine Learning, and Data Visualization. 
 - 🕸️ My personal website is at <a href="https://perry2004.github.io">here</a> .  
 
-If you have any suggestions for my future development and other ideas, please feel free to contact me at: 📫 [perryzhu2004@outlook.com](perryzhu2004@outloo)
+If you have any suggestions for my future development and other ideas, please feel free to contact me at: 📫 [perryzhu2004@outlook.com](perryzhu2004@outlook.com)
