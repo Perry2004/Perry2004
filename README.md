@@ -1,6 +1,6 @@
 # 🌄HI! I am Perry. <br> #
 ## NEWLY ADMITTED BY OHIO STATE UNIVERSITY!!! ##  
-I'm a high school student studying in China. (I'm going to the US in few months) <br> 
+I'm an international student studying in the Ohio State University. <br>
 
 My repositories include some small designs and practices of mine in Java, C++, Python, and JS. <br>
 
