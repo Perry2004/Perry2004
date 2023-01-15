@@ -13,4 +13,18 @@ As a beginner on coding, my interst is pretty broad, and I'm learning a lot of t
 If you have any suggestions for my future development and other ideas, please feel free to contact me at: 📫 [perryzhu2004@outlook.com](mailto:perryzhu2004@outlook.com)
 
 <!--START_SECTION:waka-->
+
+```text
+From: 31 July 2022 - To: 14 January 2023
+
+Total Time: 121 hrs 44 mins
+
+Java             72 hrs 22 mins  >>>>>>>>>>>>>>>----------   59.45 %
+Markdown         30 hrs 29 mins  >>>>>>-------------------   25.05 %
+Python           9 hrs 40 mins   >>-----------------------   07.94 %
+HTML             1 hr 54 mins    -------------------------   01.57 %
+JavaScript       1 hr 49 mins    -------------------------   01.50 %
+Text             1 hr 35 mins    -------------------------   01.31 %
+```
+
 <!--END_SECTION:waka-->
