@@ -11,3 +11,6 @@ As a beginner on coding, my interst is pretty broad, and I'm learning a lot of t
 - 🕸️ My personal website is at <a href="https://zhu-yp.cn">here</a> .  
 
 If you have any suggestions for my future development and other ideas, please feel free to contact me at: 📫 [perryzhu2004@outlook.com](mailto:perryzhu2004@outlook.com)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
