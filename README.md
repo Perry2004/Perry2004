@@ -15,7 +15,7 @@ If you have any suggestions for my future development and other ideas, please fe
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 July 2022 - To: 29 January 2023
+From: 31 July 2022 - To: 30 January 2023
 
 Total Time: 151 hrs 22 mins
 
