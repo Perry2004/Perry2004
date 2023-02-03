@@ -15,16 +15,16 @@ If you have any suggestions for my future development and other ideas, please fe
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 July 2022 - To: 31 January 2023
+From: 31 July 2022 - To: 01 February 2023
 
-Total Time: 153 hrs 3 mins
+Total Time: 155 hrs 5 mins
 
-Java             78 hrs 47 mins  >>>>>>>>>>>>>------------   51.48 %
-Markdown         54 hrs 13 mins  >>>>>>>>>----------------   35.43 %
-Python           9 hrs 46 mins   >>-----------------------   06.39 %
-HTML             2 hrs 26 mins   -------------------------   01.59 %
-JavaScript       1 hr 49 mins    -------------------------   01.19 %
-Text             1 hr 39 mins    -------------------------   01.08 %
+Java             78 hrs 47 mins  >>>>>>>>>>>>>------------   50.80 %
+Markdown         56 hrs 13 mins  >>>>>>>>>----------------   36.26 %
+Python           9 hrs 46 mins   >>-----------------------   06.31 %
+HTML             2 hrs 26 mins   -------------------------   01.57 %
+JavaScript       1 hr 49 mins    -------------------------   01.18 %
+Text             1 hr 39 mins    -------------------------   01.07 %
 ```
 
 <!--END_SECTION:waka-->
