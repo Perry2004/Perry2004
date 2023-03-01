@@ -15,16 +15,16 @@ If you have any suggestions for my future development and other ideas, please fe
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 February 2023 - To: 27 February 2023
+From: 21 February 2023 - To: 28 February 2023
 
-Total Time: 20 hrs 10 mins
+Total Time: 20 hrs 29 mins
 
-Markdown      13 hrs 26 mins  ████████████████▓░░░░░░░░   66.65 %
-Java          3 hrs 18 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.41 %
-MATLAB        2 hrs 10 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.81 %
-HTML          29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+Markdown      12 hrs 19 mins  ███████████████░░░░░░░░░░   60.11 %
+MATLAB        3 hrs 45 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.35 %
+Java          3 hrs 18 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.15 %
 Objective-C   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-XML           15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+HTML          20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+XML           15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
 ```
 
 <!--END_SECTION:waka-->
