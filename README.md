@@ -15,14 +15,14 @@ If you have any suggestions for my future development and other ideas, please fe
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 March 2023 - To: 03 April 2023
+From: 28 March 2023 - To: 04 April 2023
 
-Total Time: 20 hrs 19 mins
+Total Time: 23 hrs
 
-Markdown      9 hrs 11 mins   ███████████▒░░░░░░░░░░░░░   45.24 %
-Java          3 hrs 51 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.00 %
-MATLAB        3 hrs 14 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.98 %
-Other         3 hrs 8 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.41 %
+Markdown         9 hrs 56 mins   ██████████▓░░░░░░░░░░░░░░   43.20 %
+MATLAB           5 hrs 28 mins   ██████░░░░░░░░░░░░░░░░░░░   23.81 %
+Java             3 hrs 55 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.03 %
+Other            3 hrs 7 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.61 %
 ```
 
 <!--END_SECTION:waka-->
