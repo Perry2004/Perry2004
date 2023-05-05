@@ -15,16 +15,16 @@ If you have any suggestions for my future development and other ideas, please fe
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 April 2023 - To: 03 May 2023
+From: 27 April 2023 - To: 04 May 2023
 
-Total Time: 4 hrs 15 mins
+Total Time: 2 hrs 25 mins
 
-Markdown         3 hrs 51 mins   ██████████████████████▓░░   90.55 %
-Python           11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
-C                6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
-ObjectiveC       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-JSON             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-CMake            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Markdown         2 hrs 2 mins    █████████████████████░░░░   83.93 %
+Python           10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
+C                6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
+ObjectiveC       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+JSON             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+CMake            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
