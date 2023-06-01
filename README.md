@@ -15,15 +15,15 @@ If you have any suggestions for my future development and other ideas, please fe
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 May 2023 - To: 30 May 2023
+From: 24 May 2023 - To: 31 May 2023
 
-Total Time: 4 hrs 45 mins
+Total Time: 4 hrs 41 mins
 
-Markdown   4 hrs 6 mins    █████████████████████▓░░░   86.41 %
-Python     34 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 %
-MATLAB     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
-Jupyter    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Markdown   4 hrs 6 mins    ██████████████████████░░░   87.71 %
+Python     30 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.69 %
+MATLAB     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Jupyter    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
