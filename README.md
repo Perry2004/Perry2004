@@ -15,12 +15,11 @@ If you have any suggestions for my future development and other ideas, please fe
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 May 2023 - To: 04 June 2023
+From: 29 May 2023 - To: 05 June 2023
 
-Total Time: 35 mins
+Total Time: 6 mins
 
-Markdown   34 mins         ████████████████████████▒   97.93 %
-Other      0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+Markdown   6 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
