@@ -17,15 +17,15 @@ If you have any suggestions for my future development and other ideas, please fe
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 June 2023 - To: 28 June 2023
+From: 22 June 2023 - To: 29 June 2023
 
-Total Time: 9 hrs 45 mins
+Total Time: 13 hrs 35 mins
 
-Python       4 hrs 57 mins   ████████████▓░░░░░░░░░░░░   50.85 %
-Markdown     4 hrs 5 mins    ██████████▒░░░░░░░░░░░░░░   41.88 %
-Git Config   37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
-Git          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
-Text         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Markdown     6 hrs 33 mins   ████████████░░░░░░░░░░░░░   48.28 %
+Python       6 hrs 18 mins   ███████████▓░░░░░░░░░░░░░   46.49 %
+Git Config   37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
+Git          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Text         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
