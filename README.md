@@ -17,11 +17,14 @@ If you have any suggestions for my future development and other ideas, please fe
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 August 2023 - To: 06 September 2023
+From: 31 August 2023 - To: 07 September 2023
 
-Total Time: 0 secs
+Total Time: 1 hr 19 mins
 
-No activity tracked
+Markdown         1 hr 17 mins    ████████████████████████▒   97.30 %
+TeX              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+Ezhil            0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
