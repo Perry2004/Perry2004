@@ -17,15 +17,15 @@ If you have any suggestions for my future development and other ideas, please fe
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 September 2023 - To: 26 September 2023
+From: 20 September 2023 - To: 27 September 2023
 
-Total Time: 14 hrs 37 mins
+Total Time: 9 hrs 36 mins
 
-Markdown       9 hrs 52 mins   █████████████████░░░░░░░░   67.54 %
-Java           1 hr 59 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.58 %
-TeX            1 hr 26 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 %
-Python         50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
-Ezhil          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+Markdown       6 hrs 18 mins   ████████████████▒░░░░░░░░   65.68 %
+Java           1 hr 59 mins    █████░░░░░░░░░░░░░░░░░░░░   20.66 %
+Python         50 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
+Ezhil          14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+ActionScript   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
 ```
 
 <!--END_SECTION:waka-->
