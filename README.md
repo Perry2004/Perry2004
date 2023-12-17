@@ -17,15 +17,15 @@ If you have any suggestions for my future development and other ideas, please fe
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 December 2023 - To: 15 December 2023
+From: 09 December 2023 - To: 16 December 2023
 
-Total Time: 3 hrs 56 mins
+Total Time: 2 hrs 47 mins
 
-Markdown         2 hrs 49 mins   ██████████████████░░░░░░░   71.54 %
-Java             1 hr 5 mins     ███████░░░░░░░░░░░░░░░░░░   27.74 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-Python           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-HTML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Markdown         1 hr 40 mins    ███████████████░░░░░░░░░░   59.70 %
+Java             1 hr 5 mins     █████████▓░░░░░░░░░░░░░░░   39.29 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Python           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+HTML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
