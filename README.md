@@ -17,12 +17,11 @@ If you have any suggestions for my future development and other ideas, please fe
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 December 2023 - To: 27 December 2023
+From: 21 December 2023 - To: 28 December 2023
 
-Total Time: 2 hrs 51 mins
+Total Time: 1 hr 57 mins
 
-Python   2 hrs 47 mins   ████████████████████████▒   97.88 %
-CSV      3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+Python   1 hr 57 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
