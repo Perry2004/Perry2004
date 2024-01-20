@@ -17,15 +17,15 @@ If you have any suggestions for my future development and other ideas, please fe
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 January 2024 - To: 18 January 2024
+From: 12 January 2024 - To: 19 January 2024
 
-Total Time: 5 hrs 32 mins
+Total Time: 8 hrs 4 mins
 
-Markdown      4 hrs 9 mins    ██████████████████▓░░░░░░   75.06 %
-C++           1 hr 7 mins     █████░░░░░░░░░░░░░░░░░░░░   20.40 %
-Objective-C   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
-JSON          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-Java          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Markdown      5 hrs 4 mins    ███████████████▓░░░░░░░░░   62.88 %
+C++           2 hrs 45 mins   ████████▓░░░░░░░░░░░░░░░░   34.15 %
+JSON          13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+CMake         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
