@@ -17,15 +17,15 @@ If you have any suggestions for my future development and other ideas, please fe
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 March 2024 - To: 07 April 2024
+From: 01 April 2024 - To: 08 April 2024
 
-Total Time: 5 hrs 24 mins
+Total Time: 4 hrs 8 mins
 
-C++        2 hrs 28 mins   ███████████▒░░░░░░░░░░░░░   45.75 %
-Markdown   2 hrs 22 mins   ███████████░░░░░░░░░░░░░░   43.98 %
-Text       13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
-HTML       12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
-Other      6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+Markdown   2 hrs 22 mins   ██████████████▒░░░░░░░░░░   57.49 %
+C++        1 hr 12 mins    ███████▒░░░░░░░░░░░░░░░░░   29.09 %
+Text       13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
+HTML       12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
+Other      6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
 ```
 
 <!--END_SECTION:waka-->
