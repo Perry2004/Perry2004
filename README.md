@@ -17,13 +17,13 @@ If you have any suggestions for my future development and other ideas, please fe
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 April 2024 - To: 29 April 2024
+From: 23 April 2024 - To: 30 April 2024
 
-Total Time: 6 hrs 29 mins
+Total Time: 6 hrs 17 mins
 
-Markdown   3 hrs 34 mins   █████████████▓░░░░░░░░░░░   55.04 %
-Python     2 hrs 34 mins   ██████████░░░░░░░░░░░░░░░   39.75 %
-CSV        20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
+Markdown   3 hrs 22 mins   █████████████▒░░░░░░░░░░░   53.62 %
+Python     2 hrs 34 mins   ██████████▒░░░░░░░░░░░░░░   41.01 %
+CSV        20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
 ```
 
 <!--END_SECTION:waka-->
