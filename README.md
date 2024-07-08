@@ -17,12 +17,12 @@ If you have any suggestions for my future development and other ideas, please fe
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 June 2024 - To: 06 July 2024
+From: 30 June 2024 - To: 07 July 2024
 
-Total Time: 4 hrs 15 mins
+Total Time: 7 hrs 43 mins
 
-Markdown   4 hrs 4 mins    ████████████████████████░   95.80 %
-SQL        10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
+Markdown   7 hrs 32 mins   ████████████████████████▒   97.69 %
+SQL        10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
 ```
 
 <!--END_SECTION:waka-->
