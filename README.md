@@ -17,15 +17,15 @@ If you have any suggestions for my future development and other ideas, please fe
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 July 2024 - To: 31 July 2024
+From: 25 July 2024 - To: 01 August 2024
 
-Total Time: 20 hrs 25 mins
+Total Time: 29 hrs 1 min
 
-JavaScript   11 hrs 17 mins  █████████████▓░░░░░░░░░░░   55.24 %
-EJS          3 hrs 8 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.35 %
-Markdown     2 hrs 37 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.86 %
-SQL          2 hrs 18 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.28 %
-Bash         30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+JavaScript   18 hrs 30 mins  ████████████████░░░░░░░░░   63.74 %
+EJS          4 hrs 13 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.58 %
+SQL          2 hrs 50 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.81 %
+Markdown     2 hrs 5 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
+Bash         37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
 ```
 
 <!--END_SECTION:waka-->
