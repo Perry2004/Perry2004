@@ -17,15 +17,15 @@ If you have any suggestions for my future development and other ideas, please fe
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 August 2024 - To: 29 August 2024
+From: 23 August 2024 - To: 30 August 2024
 
-Total Time: 29 hrs 17 mins
+Total Time: 29 hrs 59 mins
 
-CSS           11 hrs 35 mins  ██████████░░░░░░░░░░░░░░░   39.57 %
-HTML          6 hrs 19 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.62 %
-SCSS          5 hrs 36 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.14 %
-Markdown      3 hrs 37 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.40 %
-JavaScript    1 hr 50 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
+CSS           9 hrs 56 mins   ████████▒░░░░░░░░░░░░░░░░   33.15 %
+Markdown      7 hrs 1 min     ██████░░░░░░░░░░░░░░░░░░░   23.41 %
+SCSS          5 hrs 36 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.70 %
+HTML          4 hrs 47 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.99 %
+JavaScript    2 hrs 1 min     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
 ```
 
 <!--END_SECTION:waka-->
