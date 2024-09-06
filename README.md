@@ -22,15 +22,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 August 2024 - To: 04 September 2024
+From: 29 August 2024 - To: 05 September 2024
 
-Total Time: 17 hrs 30 mins
+Total Time: 14 hrs 22 mins
 
-Markdown      10 hrs 24 mins  ███████████████░░░░░░░░░░   59.43 %
-SCSS          2 hrs 39 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.14 %
-HTML          1 hr 41 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 %
-JavaScript    1 hr 36 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
-JSON          23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+Markdown      7 hrs 46 mins   █████████████▓░░░░░░░░░░░   54.05 %
+SCSS          2 hrs 37 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.25 %
+HTML          1 hr 36 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 %
+JavaScript    1 hr 6 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
+JSON          25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
 ```
 
 <!--END_SECTION:waka-->
