@@ -22,14 +22,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 October 2024 - To: 09 October 2024
+From: 03 October 2024 - To: 10 October 2024
 
-Total Time: 10 hrs 10 mins
+Total Time: 8 hrs 48 mins
 
-Markdown   6 hrs 29 mins   ████████████████░░░░░░░░░   63.68 %
-Assembly   1 hr 38 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.11 %
-TeX        1 hr 19 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.09 %
-C          43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
+Markdown   5 hrs 8 mins    ██████████████▓░░░░░░░░░░   58.41 %
+Assembly   1 hr 38 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.61 %
+TeX        1 hr 18 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.76 %
+C          43 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
 ```
 
 <!--END_SECTION:waka-->
