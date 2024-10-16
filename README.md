@@ -22,15 +22,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 October 2024 - To: 14 October 2024
+From: 08 October 2024 - To: 15 October 2024
 
-Total Time: 3 hrs 43 mins
+Total Time: 3 hrs 12 mins
 
-Markdown     2 hrs 13 mins   ███████████████░░░░░░░░░░   59.73 %
-C            48 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.74 %
-Assembly     30 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.81 %
-Python       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
-EJS          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Markdown     1 hr 51 mins    ██████████████▓░░░░░░░░░░   58.03 %
+C            39 mins         █████░░░░░░░░░░░░░░░░░░░░   20.52 %
+Assembly     30 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.99 %
+Python       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+EJS          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
 ```
 
 <!--END_SECTION:waka-->
