@@ -1,11 +1,11 @@
 # 💫 About Me:
 
-- 📚 3rd year at UBC, combined major in CS & STAT <br>
-- 🇺🇸 Spent my first year at OSU, majoring in Computer Science Engineering, then transferred to UBC <br>
-- 🛫 International student from Harbin, China <br>
-- 🧑‍💻 Seeking Co-op or intern position in front/back/full-stack development, ML, Dev/Op, Q/A testing
-- 📨 Contact? Reach me at [perryzhu2004@outlook.com](mailto:perryzhu2004@outlook.com)
-- 📑 For employment information, check my [LinkedIn](https://github.com/Perry2004/Perry2004.git)
+- 📚 3rd year at UBC, combined major in CS & STAT. <br>
+- 🇺🇸 Spent my first year at OSU, majoring in Computer Science Engineering, then transferred to UBC. <br>
+- 🛫 International student from Harbin, China. <br>
+- 🧑‍💻 Seeking Co-op or intern position in front/back/full-stack development, ML, Dev/Op, Q/A testing.
+- 📨 Contact? Reach me at [perryzhu2004@outlook.com](mailto:perryzhu2004@outlook.com).
+- 📑 For employment information, check my [LinkedIn](https://www.linkedin.com/in/perry-z/).
 
 ## 🌐 Socials:
 
