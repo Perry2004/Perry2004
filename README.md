@@ -29,15 +29,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 July 2025 - To: 25 July 2025
+From: 19 July 2025 - To: 26 July 2025
 
-Total Time: 35 hrs 50 mins
+Total Time: 36 hrs 52 mins
 
-TypeScript   19 hrs 25 mins  █████████████▓░░░░░░░░░░░   54.20 %
-Java         13 hrs 7 mins   █████████░░░░░░░░░░░░░░░░   36.64 %
-Python       1 hr 13 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
-Bash         32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-JSON         32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+TypeScript   21 hrs 3 mins   ██████████████▒░░░░░░░░░░   57.12 %
+Java         12 hrs 4 mins   ████████▒░░░░░░░░░░░░░░░░   32.73 %
+Python       1 hr 13 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+JSON         42 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+Bash         38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
 ```
 
 <!--END_SECTION:waka-->
