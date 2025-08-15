@@ -29,15 +29,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 August 2025 - To: 13 August 2025
+From: 07 August 2025 - To: 14 August 2025
 
-Total Time: 20 hrs 58 mins
+Total Time: 15 hrs 32 mins
 
-Java              11 hrs 21 mins  █████████████▓░░░░░░░░░░░   54.10 %
-YAML              4 hrs 43 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.53 %
-Docker            1 hr 42 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
-Groovy            1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
-Other             39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+Java              10 hrs 15 mins  ████████████████▓░░░░░░░░   66.00 %
+YAML              3 hrs 35 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.14 %
+Other             27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+Java Properties   27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+Bash              20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
 ```
 
 <!--END_SECTION:waka-->
