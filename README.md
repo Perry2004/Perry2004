@@ -29,15 +29,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 August 2025 - To: 28 August 2025
+From: 22 August 2025 - To: 29 August 2025
 
-Total Time: 15 hrs 6 mins
+Total Time: 14 hrs 35 mins
 
-Java         7 hrs 47 mins   █████████████░░░░░░░░░░░░   51.57 %
-Markdown     4 hrs 43 mins   ███████▓░░░░░░░░░░░░░░░░░   31.28 %
-YAML         1 hr            █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
-JavaScript   34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
-Bash         19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+Java         8 hrs 35 mins   ██████████████▓░░░░░░░░░░   58.86 %
+Markdown     3 hrs 11 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.92 %
+YAML         1 hr            █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
+JavaScript   34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
+Other        25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
 ```
 
 <!--END_SECTION:waka-->
