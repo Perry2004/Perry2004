@@ -29,15 +29,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 September 2025 - To: 08 September 2025
+From: 02 September 2025 - To: 09 September 2025
 
-Total Time: 10 hrs 50 mins
+Total Time: 9 hrs 8 mins
 
-TypeScript   6 hrs 8 mins    ██████████████░░░░░░░░░░░   56.59 %
-Java         2 hrs 13 mins   █████░░░░░░░░░░░░░░░░░░░░   20.58 %
-YAML         1 hr 1 min      ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 %
-Bash         32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
-Groovy       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+TypeScript   5 hrs 47 mins   ███████████████▓░░░░░░░░░   63.33 %
+Java         1 hr 6 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.11 %
+YAML         49 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.12 %
+Bash         31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
+Groovy       11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
 ```
 
 <!--END_SECTION:waka-->
