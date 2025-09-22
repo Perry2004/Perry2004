@@ -29,15 +29,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 September 2025 - To: 19 September 2025
+From: 14 September 2025 - To: 21 September 2025
 
-Total Time: 6 hrs 53 mins
+Total Time: 8 hrs 14 mins
 
-Terraform   3 hrs 11 mins   ███████████▓░░░░░░░░░░░░░   46.40 %
-Python      1 hr 50 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.74 %
-Markdown    1 hr 9 mins     ████▒░░░░░░░░░░░░░░░░░░░░   16.72 %
-Docker      22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
-Bash        9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+Terraform    1 hr 52 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.77 %
+Python       1 hr 50 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.38 %
+YAML         1 hr 43 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.96 %
+Markdown     1 hr 19 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.16 %
+Docker       38 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
 ```
 
 <!--END_SECTION:waka-->
