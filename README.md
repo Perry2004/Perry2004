@@ -29,15 +29,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 October 2025 - To: 15 October 2025
+From: 09 October 2025 - To: 16 October 2025
 
-Total Time: 36 hrs 17 mins
+Total Time: 33 hrs 43 mins
 
-Terraform    16 hrs 51 mins  ███████████▓░░░░░░░░░░░░░   46.43 %
-YAML         8 hrs 25 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.19 %
-Python       3 hrs 52 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.68 %
-JSON         1 hr 23 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
-HCL          1 hr 12 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+Terraform    12 hrs 46 mins  █████████▒░░░░░░░░░░░░░░░   37.86 %
+YAML         8 hrs 10 mins   ██████░░░░░░░░░░░░░░░░░░░   24.23 %
+Python       5 hrs 20 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.85 %
+Bash         1 hr 55 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
+JSON         1 hr 23 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
 ```
 
 <!--END_SECTION:waka-->
