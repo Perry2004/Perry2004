@@ -29,15 +29,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 October 2025 - To: 21 October 2025
+From: 15 October 2025 - To: 22 October 2025
 
-Total Time: 24 hrs 34 mins
+Total Time: 23 hrs 34 mins
 
-Python       10 hrs 27 mins  ██████████▓░░░░░░░░░░░░░░   42.54 %
-Bash         4 hrs 12 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.11 %
-Terraform    3 hrs 26 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.99 %
-YAML         2 hrs 55 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.92 %
-Docker       1 hr 45 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
+Python       11 hrs 10 mins  ████████████░░░░░░░░░░░░░   47.39 %
+Bash         4 hrs 48 mins   █████░░░░░░░░░░░░░░░░░░░░   20.36 %
+Terraform    2 hrs 44 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.63 %
+Docker       1 hr 53 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
+YAML         1 hr 33 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
 ```
 
 <!--END_SECTION:waka-->
