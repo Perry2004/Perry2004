@@ -29,15 +29,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 November 2025 - To: 27 November 2025
+From: 21 November 2025 - To: 28 November 2025
 
-Total Time: 29 hrs
+Total Time: 28 hrs 24 mins
 
-Terraform    11 hrs 50 mins  ██████████▒░░░░░░░░░░░░░░   40.80 %
-Python       9 hrs 46 mins   ████████▒░░░░░░░░░░░░░░░░   33.68 %
-CSV          1 hr 34 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
-Bash         1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
-Other        57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+Terraform    11 hrs 52 mins  ██████████▒░░░░░░░░░░░░░░   41.79 %
+Python       9 hrs 38 mins   ████████▒░░░░░░░░░░░░░░░░   33.91 %
+Bash         1 hr 43 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
+CSV          1 hr 37 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
+YAML         1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
 ```
 
 <!--END_SECTION:waka-->
