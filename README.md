@@ -29,15 +29,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 December 2025 - To: 09 December 2025
+From: 03 December 2025 - To: 10 December 2025
 
-Total Time: 22 hrs 16 mins
+Total Time: 21 hrs 11 mins
 
-Terraform    10 hrs 7 mins   ███████████▒░░░░░░░░░░░░░   45.45 %
-TypeScript   3 hrs 59 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.94 %
-Python       2 hrs 37 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.81 %
-YAML         1 hr 16 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
-CSS          1 hr 4 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
+Terraform    9 hrs 20 mins   ███████████░░░░░░░░░░░░░░   44.08 %
+Python       3 hrs 32 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.75 %
+TypeScript   3 hrs 30 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.53 %
+CSS          1 hr 4 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
+JavaScript   43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
 ```
 
 <!--END_SECTION:waka-->
