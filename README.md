@@ -29,15 +29,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 December 2025 - To: 01 January 2026
+From: 26 December 2025 - To: 02 January 2026
 
-Total Time: 26 hrs 53 mins
+Total Time: 18 hrs 50 mins
 
-TypeScript   20 hrs 46 mins  ███████████████████▒░░░░░   77.27 %
-JSON         2 hrs 16 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
-Terraform    1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
-CSS          47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
-Other        40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+TypeScript   14 hrs 6 mins   ██████████████████▓░░░░░░   74.83 %
+JSON         1 hr 20 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
+Terraform    1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
+Other        34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+CSS          32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
 ```
 
 <!--END_SECTION:waka-->
