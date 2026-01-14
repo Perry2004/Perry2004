@@ -29,15 +29,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 January 2026 - To: 12 January 2026
+From: 06 January 2026 - To: 13 January 2026
 
-Total Time: 16 hrs 22 mins
+Total Time: 16 hrs 19 mins
 
-Python       7 hrs 4 mins    ██████████▓░░░░░░░░░░░░░░   43.17 %
-Terraform    2 hrs 23 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.63 %
-Other        2 hrs 5 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.81 %
-TypeScript   1 hr 56 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.88 %
-YAML         45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+Python       9 hrs 4 mins    ██████████████░░░░░░░░░░░   55.57 %
+TypeScript   1 hr 56 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.92 %
+Terraform    1 hr 16 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
+Other        1 hr 11 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
+Bash         45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
 ```
 
 <!--END_SECTION:waka-->
