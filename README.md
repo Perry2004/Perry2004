@@ -29,15 +29,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 January 2026 - To: 13 January 2026
+From: 07 January 2026 - To: 14 January 2026
 
-Total Time: 16 hrs 19 mins
+Total Time: 13 hrs
 
-Python       9 hrs 4 mins    ██████████████░░░░░░░░░░░   55.57 %
-TypeScript   1 hr 56 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.92 %
-Terraform    1 hr 16 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
-Other        1 hr 11 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
-Bash         45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
+Python       9 hrs 18 mins   ██████████████████░░░░░░░   71.59 %
+Other        57 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
+Bash         45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
+Docker       31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
+SQL          22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
 ```
 
 <!--END_SECTION:waka-->
