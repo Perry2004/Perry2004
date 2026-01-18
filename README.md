@@ -29,15 +29,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 January 2026 - To: 16 January 2026
+From: 10 January 2026 - To: 17 January 2026
 
-Total Time: 14 hrs 45 mins
+Total Time: 16 hrs 59 mins
 
-Python       11 hrs 19 mins  ███████████████████▒░░░░░   76.69 %
-Bash         1 hr            █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
-SQL          43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
-Other        30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
-TOML         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+Python       12 hrs 20 mins  ██████████████████░░░░░░░   72.65 %
+Bash         1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
+Text         49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
+Other        43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+SQL          43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
 ```
 
 <!--END_SECTION:waka-->
