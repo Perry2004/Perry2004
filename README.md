@@ -29,15 +29,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 January 2026 - To: 21 January 2026
+From: 15 January 2026 - To: 22 January 2026
 
-Total Time: 20 hrs 11 mins
+Total Time: 22 hrs 4 mins
 
-Python       10 hrs 30 mins  █████████████░░░░░░░░░░░░   52.02 %
-TypeScript   4 hrs 12 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.82 %
-Bash         1 hr 32 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 %
-Other        54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
-Prisma       43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+Python       8 hrs 31 mins   █████████▓░░░░░░░░░░░░░░░   38.61 %
+TypeScript   4 hrs 12 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.05 %
+YAML         3 hrs 53 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.62 %
+Bash         1 hr 16 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
+Other        1 hr 8 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
 ```
 
 <!--END_SECTION:waka-->
