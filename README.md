@@ -29,15 +29,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 January 2026 - To: 31 January 2026
+From: 25 January 2026 - To: 01 February 2026
 
-Total Time: 15 hrs 43 mins
+Total Time: 13 hrs 47 mins
 
-YAML         5 hrs 19 mins   ████████▒░░░░░░░░░░░░░░░░   33.88 %
-Bash         1 hr 55 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.22 %
-Terraform    1 hr 52 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.93 %
-Go           1 hr 29 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
-Jinja2       1 hr 10 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
+YAML         5 hrs 19 mins   █████████▓░░░░░░░░░░░░░░░   38.63 %
+Terraform    1 hr 52 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.60 %
+Go           1 hr 35 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.50 %
+Jinja2       1 hr 10 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 %
+Bash         59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
 ```
 
 <!--END_SECTION:waka-->
