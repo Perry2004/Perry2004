@@ -29,15 +29,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 February 2026 - To: 11 February 2026
+From: 05 February 2026 - To: 12 February 2026
 
-Total Time: 19 hrs 41 mins
+Total Time: 20 hrs 30 mins
 
-Go           4 hrs 52 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.72 %
-TypeScript   3 hrs 27 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.57 %
-Makefile     2 hrs 37 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.35 %
-Python       2 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.50 %
-Markdown     2 hrs 1 min     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.28 %
+Go           7 hrs 11 mins   ████████▓░░░░░░░░░░░░░░░░   35.03 %
+TypeScript   3 hrs 27 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.83 %
+Makefile     2 hrs 56 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.35 %
+Markdown     1 hr 59 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 %
+Terraform    1 hr 20 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
 ```
 
 <!--END_SECTION:waka-->
