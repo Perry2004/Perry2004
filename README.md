@@ -29,15 +29,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 February 2026 - To: 12 February 2026
+From: 06 February 2026 - To: 13 February 2026
 
-Total Time: 20 hrs 30 mins
+Total Time: 22 hrs 11 mins
 
-Go           7 hrs 11 mins   ████████▓░░░░░░░░░░░░░░░░   35.03 %
-TypeScript   3 hrs 27 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.83 %
-Makefile     2 hrs 56 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.35 %
-Markdown     1 hr 59 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 %
-Terraform    1 hr 20 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
+Go           7 hrs 39 mins   ████████▓░░░░░░░░░░░░░░░░   34.55 %
+TypeScript   3 hrs 29 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.73 %
+Makefile     3 hrs 9 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.27 %
+Markdown     2 hrs 16 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.23 %
+Jinja2       1 hr 25 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
 ```
 
 <!--END_SECTION:waka-->
