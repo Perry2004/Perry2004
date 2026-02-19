@@ -29,15 +29,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 February 2026 - To: 17 February 2026
+From: 11 February 2026 - To: 18 February 2026
 
-Total Time: 21 hrs 32 mins
+Total Time: 21 hrs 33 mins
 
-TypeScript   8 hrs 32 mins   ██████████░░░░░░░░░░░░░░░   39.67 %
-Go           5 hrs 33 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.79 %
-YAML         2 hrs 21 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
-Jinja2       1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
-Other        51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+TypeScript   8 hrs 33 mins         ██████████░░░░░░░░░░░░░░░   39.68 %
+Go           3 hrs 30 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.24 %
+YAML         3 hrs 10 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.74 %
+Jinja2       1 hr 35 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
+Other        1 hr 23 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
 ```
 
 <!--END_SECTION:waka-->
