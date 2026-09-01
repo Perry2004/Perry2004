@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 4th year undergrad at UBC, majoring in Computer Science & Statistics.<br>❄️ Originated from the "Ice City," [Harbin, China](https://en.wikipedia.org/wiki/Harbin).<br>🚀 Experienced in Full-Stack Development, Cloud Computing, and AI Agents.<br>📨 Reach me at: perryzhu2004@outlook.com<br>📑 For my full background, check out my [LinkedIn](https://www.linkedin.com/in/perry-z/).
+📚 CS & STAT at UBC.<br>❄️ Originated from the "Ice City," [Harbin, China](https://en.wikipedia.org/wiki/Harbin).<br>🚀 Experienced in Full-Stack Development, Cloud Engineering, and AI Agents.<br>📨 Reach me at: perryzhu2004@outlook.com<br>📑 For my full background, check out my [LinkedIn](https://www.linkedin.com/in/perry-z/).
 
 
 ## 🌐 Socials:
