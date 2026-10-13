@@ -26,15 +26,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 October 2026 - To: 11 October 2026
+From: 05 October 2026 - To: 12 October 2026
 
-Total Time: 16 hrs 19 mins
+Total Time: 17 hrs 3 mins
 
-Other                6 hrs 37 mins         ██████████░░░░░░░░░░░░░░░   40.59 %
-Markdown             5 hrs 48 mins         █████████░░░░░░░░░░░░░░░░   35.60 %
-Python               1 hr 18 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 %
-CSV                  54 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
-TOML                 37 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
+Other                6 hrs 30 mins         █████████▓░░░░░░░░░░░░░░░   38.18 %
+Markdown             6 hrs 24 mins         █████████▒░░░░░░░░░░░░░░░   37.53 %
+Python               1 hr 17 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
+CSV                  54 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
+TOML                 51 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
 ```
 
 <!--END_SECTION:waka-->
