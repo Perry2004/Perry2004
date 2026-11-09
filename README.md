@@ -26,15 +26,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 October 2026 - To: 07 November 2026
+From: 01 November 2026 - To: 08 November 2026
 
-Total Time: 21 hrs 10 mins
+Total Time: 20 hrs 38 mins
 
-Python        6 hrs 47 mins         ████████░░░░░░░░░░░░░░░░░   32.05 %
-Markdown      5 hrs 40 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.84 %
-YAML          2 hrs 47 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.21 %
-Jinja2        1 hr 39 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
-Other         1 hr 29 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
+Markdown      7 hrs 34 mins         █████████▒░░░░░░░░░░░░░░░   36.72 %
+Python        6 hrs 26 mins         ███████▓░░░░░░░░░░░░░░░░░   31.21 %
+YAML          2 hrs 40 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.93 %
+Other         1 hr 31 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
+Jinja2        1 hr 12 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
 ```
 
 <!--END_SECTION:waka-->
