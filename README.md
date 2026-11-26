@@ -26,15 +26,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 November 2026 - To: 24 November 2026
+From: 18 November 2026 - To: 25 November 2026
 
-Total Time: 23 hrs 35 mins
+Total Time: 22 hrs 43 mins
 
-Other        13 hrs 14 mins        ██████████████░░░░░░░░░░░   56.18 %
-Markdown     3 hrs 56 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.74 %
-Python       3 hrs 33 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.07 %
-JSON         2 hrs 4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
-Gherkin      24 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+Other        12 hrs 26 mins        █████████████▓░░░░░░░░░░░   54.78 %
+Markdown     3 hrs 54 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.20 %
+Python       3 hrs 33 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.65 %
+JSON         2 hrs 3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 %
+Gherkin      24 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
 ```
 
 <!--END_SECTION:waka-->
